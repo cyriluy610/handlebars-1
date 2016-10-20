@@ -6,6 +6,7 @@
 function test() {
 	console.log("look ma', no spaces");
 }
+```
 Create new repo
 ```$ npm init```
 ```Create README.md```
