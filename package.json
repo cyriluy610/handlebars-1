@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node apps"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JosesLu/handlebars-intro/issues"
   },
-  "homepage": "https://github.com/JosesLu/handlebars-intro#readme"
+  "homepage": "https://github.com/JosesLu/handlebars-intro#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
