@@ -1,0 +1,23 @@
+{
+   "users": [
+
+       {
+          "username" : "dra@yahoo.com",
+          "password" : "12345678"
+       },
+       {
+          "username" : "jos@yahoo.com",
+          "password" : "123123123"
+       },
+       {
+          "username" : "dra@gmail.com",
+          "password" : "123123123"
+       },
+       {
+          "username" : "a@gmail.com",
+          "password" : "11111111"
+       }
+        
+  
+   ]
+}
